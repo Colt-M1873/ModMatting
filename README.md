@@ -1,4 +1,18 @@
-Simple Image Mating Software made with C++ MFC
+<h2 align="center">ModMatting人像抠图软件</h2>
+
+<div align="center">
+<i>MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition (AAAI 2022)</i>
+
+<img src="docimg/dj.png" width="50%">
+
+</div>
+
+
+<br />
+
+
+
+Simple Potrait Mating Software made with C++ MFC
 
 Using [MODNet](https://github.com/ZHKKKe/MODNet) onnx inferring.
 
